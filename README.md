@@ -1,75 +1,55 @@
-# 🔐 ML-Based Encryption: Full Research Proposal & Literature Review
+# 🖥️ Computational Systems Research (2025)
 
-This project explores how **machine learning (ML)** can reshape encryption to meet the demands of a modern, high-risk digital world. As cyber threats grow more advanced and technologies like quantum computing and IoT evolve, traditional static encryption systems (e.g., RSA, AES) begin to show their age.
+This project explores how **modern computational methods** can be applied to improve the performance, scalability, and adaptability of complex systems. Using encryption algorithms as the case study, the work evaluates how advanced techniques—particularly **machine learning (ML)**—compare with traditional approaches when systems are required to handle large-scale data, evolving conditions, and real-time decision-making.
 
-This research proposes a new approach: transforming encryption into a **dynamic, intelligent, self-adapting system** using ML. It offers a **holistic study** of ML’s role in encryption across three critical dimensions: key generation, speed/scalability, and real-time threat detection.
-
----
-
-## 🎯 Objective
-
-The goal of this project is to evaluate whether ML can redefine encryption beyond a rigid algorithm—into a **context-aware system** that *adapts*, *responds*, and *learns*. Using both theoretical research and a proposed simulation model, this project bridges the gap between academic theory and practical cybersecurity implementation.
+The goal of the project is not only to study cryptography, but to demonstrate a **general engineering workflow**: conducting a structured literature review, designing a simulation-based experiment, and analyzing trade-offs in reliability, efficiency, and adaptability.
 
 ---
 
-## 📚 Research Summary
+## 📖 Project Overview
 
-### 1. ML-Enhanced Key Generation
-Traditional keys rely on static entropy sources. ML-based systems, by contrast, enable:
-- Dynamic key generation based on environmental inputs (*Okdem & Okdem, 2023*)
-- Performance-aware, self-improving systems (*Chaudhary et al., 2022*)
-- Higher entropy and brute-force resistance (*Sayed, 2024*)
+### Stage 1 – Literature Review
+- Reviewed peer-reviewed sources on **computational methods in system design**.  
+- Compared traditional algorithms to modern ML-based approaches.  
+- Focused on general engineering criteria: **efficiency, scalability, reliability, and adaptability**.  
 
-These features support cryptographic systems that evolve over time and become harder to crack.
+### Stage 2 – Research Proposal & Simulation Design
+- Drafted a **12-week experimental plan** to compare baseline systems with ML-enhanced models.  
+- Proposed measurable metrics including speed, resource use, and adaptability to stress conditions.  
+- Structured methodology to test both **traditional systems** and **modern adaptive systems** under identical scenarios.  
 
-### 2. Speed & Scalability for Large Systems
-In fields like finance, healthcare, and IoT, encryption must scale *without sacrificing performance*:
-- *Kour et al. (2024)* show ML can rank data by importance and allocate encryption power accordingly.
-- *Chinbat et al. (2024)* apply this to low-power IoT devices, using ML to selectively encrypt only critical data.
-- *Asmar, Muath, & Tuqan (2024)* introduce time-aware encryption models that shift resources dynamically during high-stress periods (e.g., financial transaction spikes).
-
-Together, these models demonstrate how ML allows systems to **encrypt smarter, not harder**.
-
-### 3. Real-Time Threat Detection
-ML makes encryption proactive, not reactive:
-- *Chaudhary et al. (2022)* integrate anomaly detection directly into the encryption process.
-- *Okdem & Okdem (2023)* use ML-based intrusion detection *before* decryption occurs.
-- *Sayed (2024)* and *Asmar et al. (2024)* show systems can learn from past attacks and reconfigure defenses automatically.
-
-This creates multi-layered protection that blocks, learns, and adapts simultaneously.
+### Stage 3 – Analysis & Broader Implications
+- Synthesized findings into a forward-looking framework.  
+- Demonstrated how computational enhancements can create **smarter, more resilient systems**.  
+- Highlighted implications not just for cryptography, but for **any engineered system** where efficiency, adaptability, and security matter.  
 
 ---
 
-## 🧪 Proposed Methodology
+## 🛠 Skills & Methods Applied
 
-The full proposal outlines a **12-week experimental simulation**:
-- Two systems will be tested: one traditional (AES/RSA) and one ML-based (using SVMs, anomaly detection, etc.).
-- Both systems will face the same data loads and simulated cyberattacks.
-- Key metrics include encryption speed, entropy strength, and threat detection accuracy.
-
-This experiment aims to *quantify* ML’s impact on cryptographic performance.
+- **Computational Modeling & Simulation Design**  
+- **Structured Literature Review & Technical Writing**  
+- **Data-Driven Analysis** of system performance and trade-offs  
+- **Critical Evaluation** of modern vs. traditional engineering methods  
 
 ---
 
-## 🔍 Key Takeaways
+## ✅ Key Outcomes
 
-- ML can **dynamically generate stronger keys**, scale securely across systems, and detect threats before damage occurs.
-- Encryption becomes **context-aware**, learning from its environment, data, and past attacks.
-- This could lead to the next generation of **self-adjusting cryptographic systems** capable of evolving with modern cybersecurity threats.
-
----
-
-## 📄 Files in This Repository
-
-- `Research Proposal ML-Based Encryption.pdf` – A full proposal integrating literature review, simulation methodology, goals, and implications.
+- Produced a **full research proposal and literature review** on modern computational methods.  
+- Designed a **simulation framework** to test system scalability, reliability, and adaptability.  
+- Gained hands-on experience in **structured research and engineering analysis**.  
+- Demonstrated how general computational methods can support **better engineering solutions** across disciplines.  
 
 ---
 
-## 🔗 Citation References (Selected)
+## 📂 Files in This Repository
 
-- Okdem & Okdem (2023) – *Applications of ML-Based Cryptography in IoT*
-- Sayed (2024) – *Comparative Study of ML vs Traditional Encryption*
-- Kour et al. (2024) – *Tiered Encryption via SVM Classification*
-- Chaudhary et al. (2022) – *ML Classifiers for Threat Detection*
-- Chinbat et al. (2024) – *Lightweight ML Encryption in IoT Healthcare*
-- Asmar, Muath, & Tuqan (2024) – *Adaptive ML Models in Digital Banking*
+- `Computational_Systems_Research.pdf` – Full proposal and literature review, including methodology and expected results.  
+
+---
+
+## 🙋 Author
+
+**Parva Parikh** (`@parvapar1kh`)  
+Civil Engineering Student | Systems & Data Analysis Enthusiast
